@@ -1,0 +1,24 @@
+body{
+    font-family: Arial;
+    margin:0;
+    
+}
+.body-first{
+    background-color: #007FFF90;
+}
+.body-none{
+    color: white;
+    background: #333333;
+}
+.app{
+    max-width: 500px;
+    margin: 100px auto auto;
+}
+.app_prize{
+    display: flex;
+    justify-content: center;
+}
+.app_picture{
+    display: flex;
+    justify-content: center;
+}
